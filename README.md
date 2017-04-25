@@ -1,4 +1,7 @@
-# api documentation for  [cordova-uglify (v0.2.8)](https://github.com/rossmartin/cordova-uglify)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-uglify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-uglify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-uglify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-uglify)
+# npmdoc-cordova-uglify
+
+#### basic api documentation for  [cordova-uglify (v0.2.8)](https://github.com/rossmartin/cordova-uglify)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-uglify.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-uglify) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-uglify.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-uglify)
+
 #### Cordova hook that allows you to uglify or minify your apps JavaScript and CSS.
 
 [![NPM](https://nodei.co/npm/cordova-uglify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cordova-uglify)
@@ -62,7 +65,8 @@
         "postinstall": "node scripts/install.js",
         "postuninstall": "node scripts/uninstall.js"
     },
-    "version": "0.2.8"
+    "version": "0.2.8",
+    "bin": {}
 }
 ```
 
